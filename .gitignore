@@ -1,0 +1,20 @@
+# Ignore everything from the beginning
+*
+
+# Unignore directories and every rust source code (test cases will be ignored later)
+!/**/**/
+!*.rs
+
+# Ignore IDEA auto-generated folders
+.cargo
+.idea
+target
+
+# Ignore tests
+**/tests
+tests.rs
+
+# Unignore base files for the repository
+!/*.md
+!LICENSE
+!.gitignore

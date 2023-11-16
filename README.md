@@ -2,9 +2,13 @@
 
 This repository hosts my submissions of the rustlings exercises, of version 5.6.1.
 
-Files such as tests, question descriptions, cargo configs, etc. are not committed.
+Files such as tests, question descriptions, cargo configs, etc. are not committed. Coursewares are also omitted.
 
-Due to data corruption, only last 3 chapters are available. The `closures` section (first section of the first chapter of these 3) is also not available.
+Due to data corruption, only last 3 chapters are available:
+
+- Standard Library Types
+- Fearless Concurrency
+- Macros
 
 ## Disclaimer
 

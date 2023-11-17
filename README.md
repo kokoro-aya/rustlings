@@ -10,6 +10,8 @@ Due to data corruption, only last 3 chapters are available:
 - Fearless Concurrency
 - Macros
 
+It's unknown whether there is a bug of clion/rustrover or misconfiguration, but the rustlings course downloaded from the edutool have every test suite or sample input as an empty file. Downloading the repository of rustlings and make a copy-paste of these test files may solve the issue.
+
 ## Disclaimer
 
 This repository is only for educational purpose and mainly as a note for myself. 
